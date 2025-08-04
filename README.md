@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AshlynnHall
-- 👀 I’m interested in rock climbing, coding, spending time with friends and the Marvel universe!
-- 🌱 I’m currently learning SQL and going into greater depth with Python.
-- 💞️ I’m looking to collaborate on internships!
-- 📫 How to reach me: hal21047@byui.edu
+- 👋 Hi, I’m Ashlynn Hall
+- 👀 I’m interested in rock climbing, soccer, hiking around Teton National Park, and playing video games with my friends!
+- 🌱 I’m currently learning NodeJS and going into greater depth with Python.
+- 💞️ I’m looking for a full-time job since graduating with my BS in Software Engineering.
+- 📫 How to reach me: hall.ash9@gmail.com
 
 <!---
 AshlynnHall/AshlynnHall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
