@@ -7,8 +7,8 @@
 
 ## 📖 About Me  
 - 🎓 **Education:** B.S. in Software Engineering, Brigham Young University–Idaho  
-- 🌱 **Currently Learning:** Advanced **Python** & **Node.js** backend development  
-- 🏞️ **Outside of Tech:** Rock climbing, soccer, hiking in **Teton National Park**, and gaming with friends  
+- 🌱 **Currently Learning:** Advanced Python & Node.js backend development  
+- 🏞️ **Outside of Tech:** Rock climbing, soccer, hiking in Teton National Park, and gaming with friends  
 
 ---
 
